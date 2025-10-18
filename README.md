@@ -36,6 +36,3 @@ By integrating predictive analytics into HR decision-making, organizations can r
 
 ---
 
-## 📈 Author  
-**Huỳnh Phương Anh**  
-[GitHub Profile](https://github.com/huynhphuonganh)  
