@@ -47,8 +47,7 @@ By integrating predictive analytics into HR decision-making, organizations can r
 ## 🛠️ Tools & Libraries  
 - **Languages:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Visualization:** Plotly, Power BI (optional)  
-- **Version Control:** Git, GitHub
+- **Visualization:** Tableau
 
 ---
 
